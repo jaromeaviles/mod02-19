@@ -19,3 +19,42 @@ input[id="searchBox"] {
 	border-radius: 20px;
 	width: 135px !important;
 }
+
+h2 {
+	padding-bottom: 15px;
+}
+
+.figure {
+	padding: 15px;
+}
+
+/*
+ *
+ * div#rightSide
+ *
+ */
+
+div#rightSide {
+	padding-top: 15px;
+}
+
+div#right-side > div {
+	padding: 15px;
+}
+
+
+/*
+ *
+ * Newsletter Section
+ *
+ */
+
+ div#newsLetter {
+ 	text-align: center;
+ }
+ div#newsLetter > div.input-group > form {
+ 	width: 100%;
+ 	margin: 0 auto;
+ }
+
+
